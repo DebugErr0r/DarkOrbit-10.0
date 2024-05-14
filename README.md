@@ -13,3 +13,5 @@
 
 - [@yusufsahinhamza](https://www.github.com/yusufsahinhamza) (Thanks for your awesome Base Emulator!)
 - [@Heizer](https://github.com/HeizerGe5) (Thanks for your help with SWF files!)
+- [@kkarnage](https://discord.gg/2FrgdEm6AB) (Thanks for your awesome discord server !)
+- [@Nosvemos](https://github.com/Nosvemos) (Thanks for your advanced Base Files!)
